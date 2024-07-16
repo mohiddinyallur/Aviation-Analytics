@@ -1,4 +1,5 @@
-# Aviation-Analytics
+#NY airports , flights analytics
+
 Project Overview
 This project focuses on analyzing data related to flights departing from three major airports in New York. Our goal is to uncover important trends and patterns in aviation operations. By leveraging data visualization and statistical analysis, we aim to understand the intricacies of aviation and provide actionable insights.
 
